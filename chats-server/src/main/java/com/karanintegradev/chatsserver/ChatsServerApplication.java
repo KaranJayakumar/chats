@@ -1,4 +1,4 @@
-package karanintegradev.com.chatsserver;
+package com.karanintegradev.chatsserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

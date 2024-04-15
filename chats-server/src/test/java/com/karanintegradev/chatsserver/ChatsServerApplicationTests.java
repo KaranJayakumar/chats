@@ -1,4 +1,4 @@
-package karanintegradev.com.chatsserver;
+package com.karanintegradev.chatsserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
