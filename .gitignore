@@ -1,0 +1,35 @@
+chats-server/HELP.md
+chats-server/target/
+!chats-server/.mvn/wrapper/maven-wrapper.jar
+!chats-server/**/src/main/**/target/
+!chats-server/**/src/test/**/target/
+
+### STS ###
+chats-server/.apt_generated
+chats-server/.classpath
+chats-server/.factorypath
+chats-server.project
+chats-server.settings
+chats-server/.springBeans
+chats-server/.sts4-cache
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
